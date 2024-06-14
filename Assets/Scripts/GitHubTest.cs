@@ -9,6 +9,7 @@ namespace KHC
         // Start is called before the first frame update
         void Start()
         {
+            int a = 1;
         
         }
 
