@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24b1a086e2a6f1f4ba607d0f97498f18, type: 3}
+  m_Name: th Sword
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 648424a5642f78745a9a85d897a82ee0, type: 3}
+  itemName: th Sword
+  modelPrefab: {fileID: 379901138512873332, guid: e4c1f4d5ab779164fb90210b6d740015,
+    type: 3}
+  isUnarmed: 0
+  baseDamage: 25
+  criticalDamage: 4
+  rightHandIdle: Right_Arm_Idle_01
+  leftHandIdle: Left_Arm_Idle_01
+  OneHandLightAttack1: th Attack 01
+  OneHandLightAttack2: th Attack 02
+  OneHandLightAttack3: th Attack 03
+  OneHandLightAttack4: run Attack 01
+  OneHandLightAttack5: charged Attack 01
+  OneHandLightAttack6: charged Attack 02
+  OneHandLightAttack7: 
+  baseStamina: 20
+  lightAttackDecreaseStamina: 2
+  heavyAttackDecreaseStamina: 4
