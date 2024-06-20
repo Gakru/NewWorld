@@ -7,6 +7,8 @@ namespace KHC
 {
     public class EnemyManager : CharacterManager
     {
+        
+
         // EnemyLocalMotionManager 참조
         EnemyLocomotionManager enemyLocalMotionManager;
         // EnemyAnimatorManager 참조

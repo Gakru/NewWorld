@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c4398e3bb70c9742bdb5944606043d6, type: 3}
+  m_Name: IDT_Enemy
+  m_EditorClassIdentifier: 
+  items:
+  - item: {fileID: 11400000, guid: 3691aafc40442ce4e9b066b01be04099, type: 2}
+    weapon: {fileID: 0}
+    weight: 100
+  - item: {fileID: 11400000, guid: 06410dc7bf431f749b8d1a1c50f87b13, type: 2}
+    weapon: {fileID: 0}
+    weight: 50
+  - item: {fileID: 0}
+    weapon: {fileID: 11400000, guid: ef4dc2df3be52674d934f4e967f68818, type: 2}
+    weight: 150

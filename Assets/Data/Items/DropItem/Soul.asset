@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cb2ddf60948afe24c8b66f93b7214023, type: 3}
-  m_Name: New Drop Item
+  m_Name: Soul
   m_EditorClassIdentifier: 
-  itemIcon: {fileID: 0}
   itemName: 
   level: 0
   stats:
-  - name: hp
-    value: 10
-  maxStack: 10
+  - name: Soul
+    value: 0
+  maxStack: 50
   price: 100
-  prefab: {fileID: 0}
-  description: "HP\uB97C 10 \uD68C\uBCF5\uD569\uB2C8\uB2E4."
+  icon: {fileID: -1107025847, guid: 132358e9bf26b60458b731bf001e31db, type: 3}
+  prefab: {fileID: 6794636799237248057, guid: a25f09b9358577d43a9cd4606c6082a0, type: 3}
+  description: 

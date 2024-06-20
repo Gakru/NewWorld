@@ -7,6 +7,8 @@ namespace KHC
 {
     public class EnemyStats : CharacterStats
     {
+        //드랍아이템
+        public ItemDropTable dropTable;
         // Animator 참조
         Animator animator;
 
@@ -67,6 +69,7 @@ namespace KHC
                 currentHealth = 0; // 체력을 0으로 설정
                 animator.Play("Death"); // 사망 애니메이션 재생
                 isDead = true;
+                dropTable.ItemDrop(transform.position);
                 // Handle Palyer Death
                 enemyRigidbody.useGravity = false;
                 enemyCapsuleCollider.enabled = false;

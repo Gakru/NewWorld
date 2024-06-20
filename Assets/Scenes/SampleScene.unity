@@ -5958,6 +5958,7 @@ MonoBehaviour:
   maxStamina: 0
   currentStamina: 0
   isDead: 0
+  dropTable: {fileID: 0}
   enemyHealthBar: {fileID: 907635468}
   enemyRigidbody: {fileID: 496204376}
   enemyCapsuleCollider: {fileID: 496204375}
@@ -6971,6 +6972,7 @@ MonoBehaviour:
   maxStamina: 0
   currentStamina: 0
   isDead: 0
+  dropTable: {fileID: 0}
   enemyHealthBar: {fileID: 0}
   enemyRigidbody: {fileID: 0}
   enemyCapsuleCollider: {fileID: 0}
@@ -17521,6 +17523,7 @@ MonoBehaviour:
   maxStamina: 0
   currentStamina: 0
   isDead: 0
+  dropTable: {fileID: 0}
   enemyHealthBar: {fileID: 1121207399}
   enemyRigidbody: {fileID: 1512271281}
   enemyCapsuleCollider: {fileID: 1512271280}
@@ -27232,6 +27235,7 @@ MonoBehaviour:
   maxStamina: 0
   currentStamina: 0
   isDead: 0
+  dropTable: {fileID: 11400000, guid: 3f49b05a7f416b3418db8b5f43643e8a, type: 2}
   enemyHealthBar: {fileID: 1253401757}
   enemyRigidbody: {fileID: 5638693061063356953}
   enemyCapsuleCollider: {fileID: 414558193256067991}
